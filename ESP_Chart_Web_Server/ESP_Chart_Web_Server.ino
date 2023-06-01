@@ -9,7 +9,7 @@
   copies or substantial portions of the Software.
 *********/
 
-/*This Code is modified for BMP280 sensor. 
+/*This Code is being modified for BMP280 sensor. 
                                      -- Amiya*/
 
 
