@@ -1,13 +1,7 @@
-/*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com
-  
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files.
-  
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
-*********/
+/*
+original coad source --- Rui Santos
+Complete project details at https://RandomNerdTutorials.com
+*/
 
 /*This Code is being modified for BMP280 sensor. 
                                      -- Amiya*/
